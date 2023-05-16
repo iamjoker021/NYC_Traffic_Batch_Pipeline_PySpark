@@ -17,7 +17,3 @@ Data storage: Store the processed and analyzed data in a suitable data storage s
 ---
 
 The overall goal of the project is to build a batch data processing pipeline using PySpark to extract insights from the NYC TLC trip record data. The pipeline should be scalable, efficient, and automated to enable easy data processing and analysis.
-
----
-
-The overall goal of the project is to build a batch data processing pipeline using PySpark to extract insights from the NYC TLC trip record data. The pipeline should be scalable, efficient, and automated to enable easy data processing and analysis.
